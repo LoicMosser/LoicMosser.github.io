@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/mofolio/sitemap.xml
+Sitemap: https://LoicMosser.github.io/sitemap.xml
