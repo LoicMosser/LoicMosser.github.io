@@ -2,96 +2,136 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Loïc Mosser
+    - name: Email
+      value: mosserl@unistra.fr
+    - name: Address
+      value: 52 route d'altenheim, 67100 Strasbourg, France
+    - name: LinkedIn
+      value: linkedin.com/in/loic-mosser-8b6543157
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctoral degree
+      institution: University of Strasbourg, Strasbourg, France
+      year: Sept 2020 - June 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Contribution to the design and manufacture of pneumatic soft robots.
+    - title: Master's degree (IRIV)
+      institution: Télécom Physique Strasbourg, Strasbourg, France
+      year: Sept 2019 - July 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Medical and Surgical Imaging and Robotics pathway.
+    - title: Agrégation in Industrial Science
+      institution: École Normale Supérieure of Rennes, Rennes, France
+      year: Sept 2018 - July 2019
+      description:
+        - Ranked 5th nationally in France's highest teacher recruitment exam (industrial computing option).
+    - title: Master's degree (STS)
+      institution: École Normale Supérieure of Rennes, Rennes, France
+      year: Sept 2017 - July 2019
+      description:
+        - Specializing in complex systems engineering.
+    - title: Double bachelor's degree
+      institution: École Normale Supérieure of Rennes, Rennes, France
+      year: Sept 2016 - July 2017
+      description:
+        - Engineering science and electronics.
+    - title: Baccalauréat
+      institution: Lycée Julie Daubié, Rombas, France
+      year: Sept 2014 - July 2016
+      description:
+        - Engineering Sciences option.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: IHU Strasbourg - ICube - RDH and IPP Teams, Strasbourg, France
+      year: Sept 2024 - Oct 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Project: LABCOM Lasersurf (collaboration between ICube laboratory and IREPA Laser).
+        - Objective: Supervision of femtosecond laser texturing process for large, non-planar surfaces.
+    - title: Design Engineer
+      institution: IHU Strasbourg - ICube - RDH Team, Strasbourg, France
+      year: Sept 2023 - Aug 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Supervised additive manufacturing of silicone.
+        - Distribution of production tools to ICBMS and LS2N laboratories.
+        - Publication of the supervision method (ANR RAMSAI Project).
+    - title: PhD Student
+      institution: IHU Strasbourg - ICube - RDH Team, Strasbourg, France
+      year: Sept 2020 - Aug 2023
       description:
+        - Design: Genetic algorithm accelerated by deep learning for soft robot design using Bézier curves and Gaussian control points.
+        - Manufacturing: Instrumented silicone additive manufacturing platform with laser profilometry supervision.
+        - Results: Creation of point cloud processing strategies for real-time part health monitoring.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Soft Robotics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Design and manufacturing of pneumatic soft robots.
+        - Generative design methods.
+    - title: Mechatronics
       items:
-        - Description 1.
-        - Description 2.
+        - Integration of mechanical and electronic systems.
+    - title: Learning-based Models
+      items:
+        - Use of deep learning to accelerate genetic algorithms.
+    - title: Additive Manufacturing
+      items:
+        - Supervised manufacturing processes for silicone.
 
-- title: Other Interests
+- title: Teaching Experience (217.5 hours)
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Industrial computing (Master 2)
+    - Mechatronics project (Master 1)
+    - Design for additive manufacturing (Master 1)
+    - Robotics project (Master 1)
+    - Mechanical design (Bachelor year 3)
+    - Manufacturing process (Bachelor year 3)
+
+- title: Computer Skills
+  type: list
+  contents:
+    - Solidworks, CREO, Matlab, Comsol, Python, ROS2, Keras/Tensorflow, C/C++, VHDL, UML
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "Towards Automatic Design of Soft Pneumatic Actuators: Inner Structure Design Using CNN Model and Bézier Curve-Based Genetic Algorithm"
+      year: 2023
+      description:
+        - IEEE Robotics and Automation Letters, presented at ICRA 2024.
+    - title: "Instrumentation of silicone additive manufacturing by extrusion: introduction and evaluation of laser profilometry and associated indicators for supervision"
+      year: 2025
+      description:
+        - Additive Manufacturing.
+    - title: "Using deep learning models to accelerate the design of soft robots with genetic algorithms"
+      year: 2023
+      description:
+        - Upper Rhine Artificial Intelligence Symposium.
+    - title: "ROS2 for soft materials additive manufacturing"
+      year: 2023
+      description:
+        - ROSConFr 2023.
+    - title: "AI-accelerated genetic algorithm with Bézier curve-based genotype for soft robot design"
+      year: 2022
+      description:
+        - Journée des jeunes chercheurs en robotique.
+
+- title: Referrers
+  type: map
+  contents:
+    - name: Prof. Pierre Renaud
+      value: pierre.renaud@insa-strasbourg.fr
+    - name: Prof. Sylvain Lecler
+      value: sylvain.lecler@insa-strasbourg.fr
+    - name: Prof. Christian Duriez
+      value: christian.duriez@inria.fr
