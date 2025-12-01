@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-are-preparing-a-journal-paper-on-laser-surface-texturing-supervision-using-spectroscopy-and-ai",
-          title: 'We are preparing a journal paper on laser surface texturing supervision using spectroscopy...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-presenting-at-the-pli-conference",
+            },},{id: "news-i-will-be-presenting-at-the-pli-conference",
           title: 'I will be presenting at the PLI conference',
+          description: "",
+          section: "News",},{id: "news-i-am-part-of-the-organising-committee-for-the-rosconfr-amp-amp-de",
+          title: 'I am part of the organising committee for the rosconFr&amp;amp;amp;De.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
