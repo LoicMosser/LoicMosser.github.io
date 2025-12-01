@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-01
+date: 2025-09-25
 inline: true
 related_posts: false
 ---
 
-We are preparing a journal paper on laser surface texturing supervision using spectroscopy and AI
+I will be presenting at the [PLI conference](https://www.clp-laser.fr/fr/evenement/pli-conferences-2025)

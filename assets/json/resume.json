@@ -20,11 +20,29 @@
   },
   "work": [
     {
+      "name": "Part of organising committee of RosconFr&De 2025",
+      "position": "Postdoctoral Researcher",
+      "location": "Strasbourg, France",
+      "startDate": "2025-11-17",
+      "endDate": "2025-11-20",
+      "summary": "Robotic arm control for 3D printing silicone on non-planar surfaces",
+      "url": "https://roscon.ros.org/fr/2025/"
+    },
+    {
+      "name": "IHU Strasbourg - ICube - RDH",
+      "position": "Postdoctoral Researcher",
+      "location": "Strasbourg, France",
+      "startDate": "2025-10-01",
+      "endDate": "2026-03-31",
+      "summary": "Robotic arm control for 3D printing silicone on non-planar surfaces",
+      "url": "https://anr.fr/Project-ANR-22-CE10-0001"
+    },
+    {
       "name": "IHU Strasbourg - ICube - RDH and IPP Teams",
       "position": "Postdoctoral Researcher",
       "location": "Strasbourg, France",
       "startDate": "2024-09-01",
-      "endDate": "2025-10-01",
+      "endDate": "2025-09-31",
       "summary": "Supervision of femtosecond laser texturing process. Laser Surface Texturing (LST) is complex to implement on large, non-planar surfaces. LST supervision is one of the issues addressed by the LABCOM Lasersurf project.",
       "url": "https://anr.fr/Projet-ANR-22-LCV2-0006"
     },
@@ -35,7 +53,7 @@
       "startDate": "2023-09-01",
       "endDate": "2024-08-01",
       "summary": "Enhancing the value of supervised additive manufacturing of silicone. Distribution of production tools to the ICBMS and LS2N laboratories. Publication of the supervision method.",
-      "url": "ANR RAMSAI Link"
+      "url": "https://anr.fr/Project-ANR-22-CE10-0001"
     },
     {
       "name": "IHU Strasbourg - ICube - RDH Team",

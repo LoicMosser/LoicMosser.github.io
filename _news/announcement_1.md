@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-25
+date: 2025-12-01
 inline: true
 related_posts: false
 ---
 
-I will be presenting at the [PLI conference](https://www.clp-laser.fr/fr/evenement/pli-conferences-2025)
+I am part of the organising committee for the [rosconFr&De](https://roscon.ros.org/fr/2025/).
